@@ -16,7 +16,7 @@
 
 ## 📜 Abstrak
 
-Proyek ini bertujuan untuk membangun dan melatih model *speech-to-text* menggunakan dataset **Mozilla Common Voice** berbahasa Inggris. Pendekatan yang digunakan adalah membangun arsitektur model *Deep Learning* dari awal yang terdiri dari **Convolutional Neural Network (CNN)** untuk ekstraksi fitur dari spektrogram audio dan **Recurrent Neural Network (RNN)** dengan arsitektur GRU untuk memproses sekuens temporal. Model ini dioptimalkan menggunakan *Connectionist Temporal Classification (CTC) Loss*, yang cocok untuk tugas sekuens-ke-sekuens di mana penyelarasan antara input dan output tidak eksplisit.
+Penelitian ini berfokus pada pengembangan serta pelatihan model speech-to-text menggunakan dataset Mozilla Common Voice berbahasa Inggris. Metode yang diterapkan adalah membangun arsitektur Deep Learning dari awal, yang terdiri dari Convolutional Neural Network (CNN) sebagai ekstraktor fitur dari spektrogram audio, serta Recurrent Neural Network (RNN) dengan arsitektur GRU untuk menangani urutan data temporal. Proses pelatihan model dioptimalkan menggunakan Connectionist Temporal Classification (CTC) Loss, yang sesuai untuk permasalahan sekuens-ke-sekuens tanpa penyelarasan eksplisit antara input dan output.
 
 Eksperimen dilakukan dalam dua tahap yang didokumentasikan dalam dua notebook terpisah:
 
