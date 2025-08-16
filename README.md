@@ -1,9 +1,3 @@
-Tentu, saya sudah memperbarui file `README.md` dengan memasukkan tautan dataset yang Anda berikan pada bagian "Cara Menjalankan".
-
-Berikut adalah konten `README.md` yang sudah diperbarui.
-
------
-
 # PROYEK TUGAS AKHIR DEEP LEARNING: SPEECH RECOGNITION
 
 **Mata Kuliah:** Deep Learning  
